@@ -29,7 +29,7 @@ var map = AmCharts.makeChart("chartdiv", {
             label:"Opti",
             labelShiftX:9,
             labelColor:"#fff601",
-            labelFontSize:5
+            labelFontSize:20
             
         },  {
             zoomLevel: 5,
