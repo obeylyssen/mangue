@@ -27,9 +27,9 @@ var map = AmCharts.makeChart("chartdiv", {
             latitude: 48.132689,
             longitude: 11.568615,
             label:"Voici un message important",
-      labelBackgroundColor:"white";
+      labelBackgroundColor:"#fff601";
             balloonText: "[[label]]",
-            description:"Opti"
+            
             
         },  {
             zoomLevel: 5,
