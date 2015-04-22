@@ -36,7 +36,12 @@ var map = AmCharts.makeChart("chartdiv", {
             scale: 0.5,
             title: "Paris",
             latitude: 48.8567,
-            longitude: 2.3510
+            longitude: 2.3510,
+            label:"SILMO",
+            labelShiftX:9,
+            labelColor:"#fff601",
+            labelFontSize:20
+            
         }, {
             zoomLevel: 5,
             scale: 0.5,
