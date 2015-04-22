@@ -8,13 +8,7 @@ var map = AmCharts.makeChart("chartdiv", {
     "theme": "light",
     pathToImages: "http://www.amcharts.com/lib/3/images/",
 
-    imagesSettings: {
-        rollOverColor: "#089282",
-        rollOverScale: 2,
-        selectedScale: 2,
-        selectedColor: "#089282",
-        color: "#13564e"
-    },
+
 
     zoomControl: {
         buttonFillColor: "#15A892"
