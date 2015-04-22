@@ -47,9 +47,9 @@ var map = AmCharts.makeChart("chartdiv", {
         }, {
             zoomLevel: 5,
             scale: 0.5,
-            title: "Reykjavik",
-            latitude: 64.1353,
-            longitude: -21.8952
+            title: "Milan",
+            latitude: 45.466466,
+            longitude: 9.182539
         }, {
             zoomLevel: 5,
             scale: 0.5,
