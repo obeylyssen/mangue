@@ -29,16 +29,10 @@ var map = AmCharts.makeChart("chartdiv", {
         images: [{
             zoomLevel: 5,
             scale: 0.5,
-            title: "Brussels",
-            latitude: 50.8371,
-            longitude: 4.3676
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Copenhagen",
-            latitude: 55.6763,
-            longitude: 12.5681
-        }, {
+            title: "Munchen",
+            latitude: 48.132689,
+            longitude: 11.568615
+        },  {
             zoomLevel: 5,
             scale: 0.5,
             title: "Paris",
@@ -50,37 +44,18 @@ var map = AmCharts.makeChart("chartdiv", {
             title: "Milan",
             latitude: 45.466466,
             longitude: 9.182539
-        }, {
+        },  {
             zoomLevel: 5,
             scale: 0.5,
-            title: "Moscow",
-            latitude: 55.7558,
-            longitude: 37.6176
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Madrid",
-            latitude: 40.4167,
-            longitude: -3.7033
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "London",
-            latitude: 51.5002,
-            longitude: -0.1262,
-            url:"http://www.google.co.uk"
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Peking",
+            title: "Beijing",
             latitude: 39.9056,
             longitude: 116.3958
         }, {
             zoomLevel: 5,
             scale: 0.5,
-            title: "New Delhi",
-            latitude: 28.6353,
-            longitude: 77.2250
+            title: "Shanghai",
+            latitude: 31.241963,
+            longitude: 121.454780
         }, {
             zoomLevel: 5,
             scale: 0.5,
@@ -91,51 +66,15 @@ var map = AmCharts.makeChart("chartdiv", {
         }, {
             zoomLevel: 5,
             scale: 0.5,
-            title: "Ankara",
-            latitude: 39.9439,
-            longitude: 32.8560
+            title: "New York",
+            latitude: 40.707997, 
+            longitude: -73.975561
         }, {
             zoomLevel: 5,
             scale: 0.5,
-            title: "Buenos Aires",
-            latitude: -34.6118,
-            longitude: -58.4173
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Brasilia",
-            latitude: -15.7801,
-            longitude: -47.9292
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Ottawa",
-            latitude: 45.4235,
-            longitude: -75.6979
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Washington",
-            latitude: 38.8921,
-            longitude: -77.0241
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Kinshasa",
-            latitude: -4.3369,
-            longitude: 15.3271
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Cairo",
-            latitude: 30.0571,
-            longitude: 31.2272
-        }, {
-            zoomLevel: 5,
-            scale: 0.5,
-            title: "Pretoria",
-            latitude: -25.7463,
-            longitude: 28.1876
+            title: "Las Vegas",
+            latitude: 36.168526, 
+            longitude: -115.128308
         }]
     }
 });
