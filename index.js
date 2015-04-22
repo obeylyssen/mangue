@@ -10,8 +10,8 @@ var map = AmCharts.makeChart("chartdiv", {
 
     imagesSettings: {
         rollOverColor: "#089282",
-        rollOverScale: 3,
-        selectedScale: 3,
+        rollOverScale: 2,
+        selectedScale: 2,
         selectedColor: "#089282",
         color: "#13564e"
     },
