@@ -26,9 +26,13 @@ var map = AmCharts.makeChart("chartdiv", {
             title: "München",
             latitude: 48.132689,
             longitude: 11.568615,
-            label:"Voici un message important",
+            label:"Opti",
+            labelShiftX:8, 
+            labelColor:"#fff601", 
+            labelFontSize:20,
       labelBackgroundColor:"#fff601";
-            balloonText: "[[label]]",
+            balloonText: "[[description]]",
+            description:"je suis un lezard"
             
             
         },  {
