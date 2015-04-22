@@ -33,7 +33,7 @@ var map = AmCharts.makeChart("chartdiv", {
             latitude: 48.132689,
             longitude: 11.568615,
             label:"Opti",
-            labelShiftX:12,
+            labelShiftX:9,
             
         },  {
             zoomLevel: 5,
