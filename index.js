@@ -31,8 +31,7 @@ var map = AmCharts.makeChart("chartdiv", {
             labelColor:"#fff601", 
             labelFontSize:20,
             balloonText: "[[description]]",
-            description:"je suis un lezard"
-            
+            description:"<h1>Je suis un lezard</h1>"
             
         },  {
             zoomLevel: 5,
