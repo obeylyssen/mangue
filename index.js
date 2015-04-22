@@ -30,7 +30,7 @@ var map = AmCharts.makeChart("chartdiv", {
             labelShiftX:8,
             labelColor:"#fff601",
             labelFontSize:20,
-            balloonText: [[description]],
+            balloonText: "[[description]]",
             description:"Voici"
             
         },  {
