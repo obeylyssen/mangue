@@ -28,6 +28,7 @@ var map = AmCharts.makeChart("chartdiv", {
             longitude: 11.568615,
             label:"Opti",
             labelShiftX:9,
+            labelColor:"#fff601"
             
         },  {
             zoomLevel: 5,
