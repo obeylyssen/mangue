@@ -32,7 +32,7 @@ var map = AmCharts.makeChart("chartdiv", {
             title: "Munchen",
             latitude: 48.132689,
             longitude: 11.568615,
-            description: "je suis la"
+            label: "je suis la"
         },  {
             zoomLevel: 5,
             scale: 0.5,
