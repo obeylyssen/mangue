@@ -38,7 +38,7 @@ var map = AmCharts.makeChart("chartdiv", {
             latitude: 48.8567,
             longitude: 2.3510,
             label:"SILMO",
-           labelPosition:"left",
+           labelPosition:left,
             labelColor:"#fff601",
             labelFontSize:20
             
